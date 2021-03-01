@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alcool ou gasolina por Rafael Moid</string>
+    <string name="valorAlcool">Digite o valor do álcool</string>
+    <string name="valorGasolina">Digite o valor da gasolina</string>
+    <string name="valorGasolin">Digite o valor da gasolina ex: 5.20</string>
+    <string name="valorAlcol">Digite o valor do álcool ex: 3.80</string>
+    <string name="preçoAlcool">Digite o preço do álcool ex: 3.94</string>
+    <string name="preçoGasolina">Digite o preço da gasolina ex: 5.20</string>
+    <string name="calcularPreco">calcularPreco</string>
+</resources>
